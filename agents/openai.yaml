@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Preview Handoff"
+  short_description: "每次创作更新后，提供版本清晰、可播放并经过核验的本地预览网页"
+  default_prompt: "使用 $blender-preview-handoff，在本次素材更新完成后创建并验证预览网页，展示修改点、媒体和同步状态。"
